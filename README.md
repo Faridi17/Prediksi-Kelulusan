@@ -20,8 +20,8 @@ The model used has been trained on a historical student graduation dataset to en
 ## 🖼️ App Preview
 
 <p align="center" style="margin:0;padding:0;">
-  <img src="img/preview1.png" width="70%" style="display:block;margin:0;padding:0;">
-  <img src="img/preview2.png" width="70%" style="display:block;margin:0;padding:0;">
+  <img src="img/preview-1.png" width="70%" style="display:block;margin:0;padding:0;">
+  <img src="img/preview-2.png" width="70%" style="display:block;margin:0;padding:0;">
 </p>
 
 ---
@@ -91,8 +91,6 @@ scikit-learn
 ```bash
 streamlit run app.py
 ```
-
-Replace `app.py` with your main application file name if different.
 
 Then open your browser and go to the URL shown in the terminal, usually:  
 👉 [http://localhost:8501](http://localhost:8501)
